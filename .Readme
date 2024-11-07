@@ -1,14 +1,17 @@
-# SaaS Project
+# SaaS landing page
 
 ## Overview
 
-This project is a Software as a Service (SaaS) application designed
+This project is a Software as a Service (SaaS) application landing page
+used the industry level techniques and followed the SEO techniques
 
 ## Features
 
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
+- followed the SEO technicque **OPEN GRAPH PROTOCOL** 
+- followed the **webp** format images
+- Responsive website
+
+- [Click here to see the website](https://saas-growth.netlify.app/)
 
 ## Installation
 
@@ -37,7 +40,7 @@ To install and run this project locally, follow these steps:
 
 ## Content Delivery Network
 
-This project uses the following CDNs for enhanced performance and additional features:
+This project uses the following CDNs **CDNJS** for enhanced performance and additional features:
 
 - **Font Awesome**: For scalable vector icons that can be customized with CSS.
 
